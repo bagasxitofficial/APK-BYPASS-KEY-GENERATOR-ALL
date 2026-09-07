@@ -1,13 +1,13 @@
 {
   "key_menu": {
-    "NIKU MODS": "https://nikumodsgetkey.myvipsite.fun",
+    "NIKU MODS": "http://203.57.85.108:25565/",
     "S3 HACKS": "https://s3hacksgetkey.myvipsite.fun",
     "LUNAR CLIENT": "http://169.58.137.21:25565/",
     "SX2 KEY": "https://sx2lador.online/GetKey.php",
     "XITEXE": "http://5.189.188.159:3018/"
   },
   "main_domains": [
-    "nikumodsgetkey",
+    "203.57.85.108",
     "s3hacksgetkey",
     "169.58.137.21",
     "sx2lador.online",
