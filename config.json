@@ -1,16 +1,23 @@
 {
   "key_menu": {
     "NIKU MODS": "http://203.57.85.108:25565/",
-    "S3 HACKS": "https://s3hacksgetkey.myvipsite.fun",
+    "S3 HACKS": "https://s3hacksgetkey.myvipsite.fun/",
     "LUNAR CLIENT": "http://169.58.137.21:25565/",
     "SX2 KEY": "https://sx2lador.online/GetKey.php",
-    "XITEXE": "http://5.189.188.159:3018/"
+    "XITEXE": "http://5.189.188.159:3018/",
+    "CUBAN MODS": "https://cubanmods.com/keygratis.php",
+    "KING CHEAT": "https://monteolympus.com/s/king_cheats_1-king_register",
+    "MTH TEAM": "https://monteolympus.com/s/andremods-mthgetkey",
+    "GRINGO XP": "https://bagasxit.netlify.app/"
   },
   "main_domains": [
     "203.57.85.108",
-    "s3hacksgetkey",
+    "s3hacksgetkey.myvipsite.fun",
     "169.58.137.21",
     "sx2lador.online",
-    "5.189.188.159"
+    "5.189.188.159",
+    "cubanmods.com",
+    "monteolympus.com",
+    "bagasxit.netlify.app"
   ]
 }
