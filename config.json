@@ -1,17 +1,44 @@
 {
   "key_menu": {
-    "NIKU MODS": "https://nikumodsgetkey.myvipsite.fun",
-    "S3 HACKS": "https://s3hacksgetkey.myvipsite.fun/",
-    "LUNAR CLIENT": "http://169.58.137.21:25565/",
-    "SX2 KEY": "https://sx2lador.online/GetKey.php",
-    "XITEXE": "http://5.189.188.159:3018/",
-    "CUBAN MODS": "https://cubanmods.com/keygratis.php",
-    "KING CHEAT": "https://monteolympus.com/s/king_cheats_1-king_register",
-    "MTH TEAM": "https://monteolympus.com/s/andremods-mthgetkey",
-    "GRINGO XP": "https://bagasxit.netlify.app/"
+    "NIKU MODS": {
+      "url": "http://203.57.85.108:25565/",
+      "type": "B"
+    },
+    "S3 HACKS": {
+      "url": "https://s3hacksgetkey.myvipsite.fun/",
+      "type": "B"
+    },
+    "LUNAR CLIENT": {
+      "url": "http://169.58.137.21:25565/",
+      "type": "B"
+    },
+    "SX2 KEY": {
+      "url": "https://sx2lador.online/GetKey.php",
+      "type": "B"
+    },
+    "XITEXE": {
+      "url": "http://5.189.188.159:3018/",
+      "type": "B"
+    },
+    "CUBAN MODS": {
+      "url": "https://cubanmods.com/keygratis.php",
+      "type": "A"
+    },
+    "KING CHEAT": {
+      "url": "https://monteolympus.com/s/king_cheats_1-king_register",
+      "type": "A"
+    },
+    "MTH TEAM": {
+      "url": "https://monteolympus.com/s/andremods-mthgetkey",
+      "type": "A"
+    },
+    "GRINGO XP": {
+      "url": "https://bagasxit.netlify.app/",
+      "type": "A"
+    }
   },
   "main_domains": [
-    "nikumodsgetkey.myvipsite.fun",
+    "203.57.85.108",
     "s3hacksgetkey.myvipsite.fun",
     "169.58.137.21",
     "sx2lador.online",
